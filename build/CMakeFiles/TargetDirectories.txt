@@ -1,0 +1,3 @@
+C:/Users/giovani/Documents/C++/build/CMakeFiles/PhotoBatch.dir
+C:/Users/giovani/Documents/C++/build/CMakeFiles/edit_cache.dir
+C:/Users/giovani/Documents/C++/build/CMakeFiles/rebuild_cache.dir
