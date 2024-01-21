@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/giovani/Documents/C++/PhotoBatch.cpp" "CMakeFiles/PhotoBatch.dir/PhotoBatch.cpp.obj" "gcc" "CMakeFiles/PhotoBatch.dir/PhotoBatch.cpp.obj.d"
+  "C:/Users/giovani/Documents/PhotoBatch/PhotoBatch.cpp" "CMakeFiles/PhotoBatch.dir/PhotoBatch.cpp.obj" "gcc" "CMakeFiles/PhotoBatch.dir/PhotoBatch.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

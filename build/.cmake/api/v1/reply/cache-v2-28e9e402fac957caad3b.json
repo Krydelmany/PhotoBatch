@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/giovani/Documents/C++/build"
+			"value" : "c:/Users/giovani/Documents/PhotoBatch/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/giovani/Documents/C++/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/giovani/Documents/PhotoBatch/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/giovani/Documents/C++"
+			"value" : "C:/Users/giovani/Documents/PhotoBatch"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1295,7 +1295,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/giovani/Documents/C++/build"
+			"value" : "C:/Users/giovani/Documents/PhotoBatch/build"
 		},
 		{
 			"name" : "PhotoBatch_IS_TOP_LEVEL",
@@ -1319,7 +1319,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/giovani/Documents/C++"
+			"value" : "C:/Users/giovani/Documents/PhotoBatch"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
