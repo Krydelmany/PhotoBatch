@@ -1,8 +1,8 @@
 [
 {
-  "directory": "C:/Users/giovani/Documents/PhotoBatch/build",
-  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\PhotoBatch.dir\\PhotoBatch.cpp.obj -c C:\\Users\\giovani\\Documents\\PhotoBatch\\PhotoBatch.cpp",
-  "file": "C:/Users/giovani/Documents/PhotoBatch/PhotoBatch.cpp",
+  "directory": "C:/Users/Giovani/Documents/Programming/C++/PhotoBatch/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\PhotoBatch.dir\\PhotoBatch.cpp.obj -c C:\\Users\\Giovani\\Documents\\Programming\\C++\\PhotoBatch\\PhotoBatch.cpp",
+  "file": "C:/Users/Giovani/Documents/Programming/C++/PhotoBatch/PhotoBatch.cpp",
   "output": "CMakeFiles/PhotoBatch.dir/PhotoBatch.cpp.obj"
 }
 ]

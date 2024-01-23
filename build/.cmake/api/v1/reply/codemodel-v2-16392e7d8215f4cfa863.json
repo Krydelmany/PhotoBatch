@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/giovani/Documents/PhotoBatch/build",
-		"source" : "C:/Users/giovani/Documents/PhotoBatch"
+		"build" : "C:/Users/Giovani/Documents/Programming/C++/PhotoBatch/build",
+		"source" : "C:/Users/Giovani/Documents/Programming/C++/PhotoBatch"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 5
 	}
 }
